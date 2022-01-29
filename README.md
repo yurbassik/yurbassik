@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yurbassik
+- 👋 Hi, I’m @Yuriy
 - 👀 I’m interested in Python and Algotrading, im lerning python for that.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on some algotraders with some new ideas that we can exchange 
